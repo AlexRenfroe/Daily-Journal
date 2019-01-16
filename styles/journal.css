@@ -1,0 +1,19 @@
+textarea{
+    width: 100%;
+}
+
+#date{
+    display: flex;
+}
+
+#concepts{
+    display: flex;
+}
+
+#entry{
+    display: flex;
+}
+
+#mood{
+    display: flex;
+}
